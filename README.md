@@ -1,23 +1,23 @@
-# Bootstrap Spotify Page Clone (University Test)
+# Bootstrap Repository (University Work)
 
-This project was developed as part of a university test to demonstrate proficiency in front-end web development, specifically HTML, CSS, and Bootstrap. It replicates the design and layout of a page from the Spotify website, focusing solely on the frontend presentation without any backend functionality.
+This repository hosts a variety of web development projects completed as part of my university coursework. Each project demonstrates the application of HTML, CSS, Bootstrap and Javascript in creating responsive and visually appealing web interfaces suitable for both educational and professional use.
 
 ## Technologies Used
 
 - HTML
-- CSS (Bootstrap)
+- CSS
 - Bootstrap
+- Javascript
 
-## Description
+## Example: Bootstrap Spotify Page Clone
 
-The Bootstrap Spotify Page Clone is a static, one-page application created to showcase skills in building responsive and visually appealing web pages using Bootstrap. It accurately replicates various elements of a Spotify page, including the layout, navigation bar, search functionality, and footer.
+This example from the homework assignments is a static, one-page application designed to demonstrate the skills acquired in building responsive and visually appealing web pages using Bootstrap. It accurately replicates various elements of a Spotify page, including the layout, navigation bar, and footer.
 
 ## Features
 
-- Responsive design implemented with Bootstrap grid system.
-- Mimics the design and layout of a Spotify page.
-- Utilizes Bootstrap components and styling for consistency and responsiveness.
-- Single-page application for easy evaluation and demonstration.
+- All projects implement responsive web design principles, implemented with Bootstrap grid system.
+- Bootstrap's framework is utilized extensively for grid layouts, component styling, and interface consistency across projects.
+- Mimics the design and layout of online pages or layouts shown at class.
 
 ## Usage
 
